@@ -1,2 +1,1 @@
-# ii2230_jarkom
-II2230 Jaringan Komputer STI'22
+# II2230 Computer Network IST'22
